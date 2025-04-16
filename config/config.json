@@ -1,20 +1,15 @@
 {
-    "token": "YOUR_DISCORD_TOKEN_HERE",
-    "prefix": ".",
-    "remote-users": [],
-    "autoreply": {
-        "messages": [
-            "https://github.com/AstraaDev/Discord-SelfBot",
-            "https://discord.gg/PKR7nM9j9U"
-        ],
-        "channels": [],
-        "users": []
+    "bot": {
+        "owners": ["1131339559016333465", "1261791022623494195"],
+        "prefix": "..."
+        
     },
-    "afk": {
-        "enabled": false,
-        "message": "I am currently AFK. I will respond as soon as possible!"
+    "data":{
+        "grinding": false
     },
-    "copycat": {
-        "users": []
+    "commands": {
+        "global": true,
+        "servers_allowed": ["1354760026870517770"],
+        "users_allowed": []
     }
 }
